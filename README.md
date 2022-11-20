@@ -1,2 +1,2 @@
 # calmcode
-My calmcode.io class solutions.
+My calmcode.io tutorial solutions.
